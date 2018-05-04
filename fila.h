@@ -2,7 +2,7 @@
 #define FILA_H_INCLUDED
 
 aviao *inserir(aviao **inicio, aviao **fim, aviao *novo);
-aviao *remover(aviao **inicio);
+void *remover(aviao **inicio);
 void *contar(aviao **inicio, aviao **fim);
 void *imprimir(aviao **inicio, aviao **fim);
 void *consultar_cabeca(aviao **inicio);
