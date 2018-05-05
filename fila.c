@@ -24,3 +24,7 @@ void *consultar_cabeca(aviao **inicio){
 void *quantidadeDePessoas(aviao **inicio, aviao **fim){
 
 }
+
+void imprime_dado_voo(aviao **inicio, aviao **fim){
+
+} //HENRIQUE
