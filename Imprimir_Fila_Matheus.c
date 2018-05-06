@@ -1,3 +1,4 @@
+//Precisa imprimir o conteúdo como uma Fila, você está fazendo como se fosse uma lista
 void imprimir_Fila(aviao **inicio, aviao **fim){
 	int i=1;
 	aviao *aux;
